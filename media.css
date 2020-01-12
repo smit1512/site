@@ -1,0 +1,40 @@
+@media only screen and (max-width: 991px) {
+  .flinks {
+   float: left;
+	}
+	.f_links{
+		padding-left: 6% !important;
+	}
+}
+@media only screen and (min-width: 768px) {
+  .intro_text h2{
+    font-size: 30px;
+  }
+  .intro_text h1{
+    font-size: 40px;
+  }
+}
+@media only screen and (min-width: 1000px) {
+  .intro_text h2{
+    font-size: 38px;
+  }
+  .intro_text h1{
+    font-size: 45px;
+  }
+}
+@media only screen and (min-width: 1400px) {
+  .intro_text h2{
+    font-size: 45px;
+  }
+  .intro_text h1{
+    font-size: 55px;
+  }
+}
+@media only screen and (min-width: 2000px) {
+  .intro_text h2{
+    font-size: 60px;
+  }
+  .intro_text h1{
+    font-size: 70px;
+  }
+}
